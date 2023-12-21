@@ -16,7 +16,7 @@
    - Machine Tools
 
 ## Work Experience:
-#### 1. [Freelancer.com](https://www.freelancer.com/) | Design Specialist | 2021 - Present`
+#### 1. [Freelancer.com](https://www.freelancer.com/) | Design Specialist | `2021 - Present`
    - Logo Design
    - Icon and Theme Design
    - UI/UX for Mobile Design
@@ -24,7 +24,7 @@
    - Mobile App Design
    - Product Design
 
-#### 2. [Developer Xiaomi](https://in.zhuti.designer.intl.xiaomi.com/) | Design Specialist | 2021 - Present`
+#### 2. [Developer Xiaomi](https://in.zhuti.designer.intl.xiaomi.com/) | Design Specialist | `2021 - Present`
    - Icon and Theme Design
    - UI Design
    - Wallpaper Design
