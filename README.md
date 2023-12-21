@@ -29,7 +29,7 @@
    - UI Design
    - Wallpaper Design
    - Boot Animation Design
-     
+
 #### 3. [PT. Glostar Indonesia 2](https://www.pouchen.com/) | Laboratory Staff | Sukabumi `October'2013 - October 2021`
    - Material Footwear Testing
    - Create Repor daily, weekly and montlhy
