@@ -16,9 +16,23 @@
    - Machine Tools
 
 ## Work Experience:
-#### 1. [PT. Glostar Indonesia 2](https://www.pouchen.com/) | Laboratory Staff | Sukabumi `October'2013 - October 2021`
-   - Material Testing & Reporting
+#### 1. [FREELANCER.COM](https://www.freelancer.com/) | Design Specialist | 2021 - Present`
+   - Logo Design
+   - Icon and Theme Design
+   - UI/UX for Mobile Design
+   - Website Design
+   - Mobile App Design
+   - Product Design
 
+#### 2. [DEVELOPER XIAOMI](https://in.zhuti.designer.intl.xiaomi.com/) | Design Specialist | 2021 - Present`
+   - Icon and Theme Design
+   - UI Design
+   - Wallpaper Design
+   - Boot Animation Design
+     
+#### 3. [PT. Glostar Indonesia 2](https://www.pouchen.com/) | Laboratory Staff | Sukabumi `October'2013 - October 2021`
+   - Material Footwear Testing
+   - Create Repor daily, weekly and montlhy
 ---
 
 ### Languages and Tools:
